@@ -148,9 +148,6 @@ The API documentation is available at:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support 💬
-
-For support, contact us at B220091B@sc.edu.my or open an issue in the GitHub repository.
 
 ## Acknowledgements 🙏
 
